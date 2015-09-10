@@ -1,3 +1,6 @@
+Comandos utilizados para fazer um commit para o repositório remoto
+===================
+
 ´git add <nome_do_arquivo>´
 Coloca o arquivo que será commitado
 
