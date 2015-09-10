@@ -8,4 +8,4 @@ Comandos utilizados para fazer um commit para o repositório remoto
  Coloca os arquivos que farão parte do seu repositório GIT
 
  `git push origin master` 
- empurra seus arquivos para um repositório remoto(origin) ba branch master</p>
+ empurra seus arquivos para um repositório remoto(origin) para o branch master</p>
